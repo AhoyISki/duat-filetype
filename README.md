@@ -1,3 +1,5 @@
+**This crate has been transferred to the duat monorepo, as such, this repository has been archived**
+
 # duat-filetype ![License: GPL-3.0-or-later](https://img.shields.io/badge/license-GPL--3.0--or--later-blue) [![duat-filetype on crates.io](https://img.shields.io/crates/v/duat-filetype)](https://crates.io/crates/duat-filetype) [![duat-filetype on docs.rs](https://docs.rs/duat-filetype/badge.svg)](https://docs.rs/duat-filetype) [![Source Code Repository](https://img.shields.io/badge/Code-On%20GitHub-blue?logo=GitHub)](https://github.com/AhoyISki/duat-filetype)
 
 Filetypes for the Duat text editor
